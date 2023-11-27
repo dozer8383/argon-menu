@@ -1,2 +1,2 @@
-# argon-menu
-Your hub for Argon functionality.
+# The Argon Menu
+It's coming soon.
